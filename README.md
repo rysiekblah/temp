@@ -1,7 +1,7 @@
 # temp
 
 ## using Data1 or Data2
-it works correctly as it is synchronized or atomics used
+it works correctly because list is synchronized and atomics objects are used
 
 ## using CrapData obj
 it doesn't work good, anyways, it works as we can expect using this class :)
